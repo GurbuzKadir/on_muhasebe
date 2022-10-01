@@ -1,0 +1,16 @@
+C:\Users\Kadir\Desktop\Proje\AccoOnMuhasebe\AccoOnMuhasebe\bin\Debug\AccoOnMuhasebe.exe.config
+C:\Users\Kadir\Desktop\Proje\AccoOnMuhasebe\AccoOnMuhasebe\bin\Debug\AccoOnMuhasebe.exe
+C:\Users\Kadir\Desktop\Proje\AccoOnMuhasebe\AccoOnMuhasebe\bin\Debug\AccoOnMuhasebe.pdb
+C:\Users\Kadir\Desktop\Proje\AccoOnMuhasebe\AccoOnMuhasebe\obj\Debug\AccoOnMuhasebe.csprojResolveAssemblyReference.cache
+C:\Users\Kadir\Desktop\Proje\AccoOnMuhasebe\AccoOnMuhasebe\obj\Debug\AccoOnMuhasebe.Properties.Resources.resources
+C:\Users\Kadir\Desktop\Proje\AccoOnMuhasebe\AccoOnMuhasebe\obj\Debug\AccoOnMuhasebe.csproj.GenerateResource.Cache
+C:\Users\Kadir\Desktop\Proje\AccoOnMuhasebe\AccoOnMuhasebe\obj\Debug\AccoOnMuhasebe.exe.licenses
+C:\Users\Kadir\Desktop\Proje\AccoOnMuhasebe\AccoOnMuhasebe\obj\Debug\AccoOnMuhasebe.exe
+C:\Users\Kadir\Desktop\Proje\AccoOnMuhasebe\AccoOnMuhasebe\obj\Debug\AccoOnMuhasebe.pdb
+C:\Users\Kadir\Desktop\Proje\AccoOnMuhasebe\AccoOnMuhasebe\obj\Debug\AccoOnMuhasebe.frmUrunler.resources
+C:\Users\Kadir\Desktop\Proje\AccoOnMuhasebe\AccoOnMuhasebe\obj\Debug\AccoOnMuhasebe.frmAna.resources
+C:\Users\Kadir\Desktop\Proje\AccoOnMuhasebe\AccoOnMuhasebe\obj\Debug\AccoOnMuhasebe.frmMusteriler.resources
+C:\Users\Kadir\Desktop\Proje\AccoOnMuhasebe\AccoOnMuhasebe\obj\Debug\AccoOnMuhasebe.frmFirmalar.resources
+C:\Users\Kadir\Desktop\Proje\AccoOnMuhasebe\AccoOnMuhasebe\obj\Debug\AccoOnMuhasebe.frmPersonel.resources
+C:\Users\Kadir\Desktop\Proje\AccoOnMuhasebe\AccoOnMuhasebe\obj\Debug\AccoOnMuhasebe.frmRehber.resources
+C:\Users\Kadir\Desktop\Proje\AccoOnMuhasebe\AccoOnMuhasebe\obj\Debug\AccoOnMuhasebe.frmMail.resources

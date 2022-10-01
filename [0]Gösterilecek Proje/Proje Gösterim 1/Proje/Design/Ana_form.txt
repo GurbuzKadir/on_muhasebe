@@ -1,0 +1,14 @@
+Menüler
+**************
+Ürünler
+Stoklar
+Müþteriler
+Firmalar
+Personeller
+Gideler
+Kasa
+Notlar
+Bankalar
+Faturalar
+Ayarlar
+Hareketler

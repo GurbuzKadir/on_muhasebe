@@ -1,0 +1,1 @@
+Data Source=KADIR;Initial Catalog=DboOnMuhasebe;Integrated Security=True
